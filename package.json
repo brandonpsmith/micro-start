@@ -1,0 +1,18 @@
+{
+  "name": "micro-start",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Brandon P. Smith",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "micro": "^9.3.3",
+    "micro-dev": "^3.0.0"
+  },
+  "keywords": [
+    "micro",
+    "micro-dev",
+    "micro programmatic",
+    "micro-dev programmatic"
+  ]
+}
